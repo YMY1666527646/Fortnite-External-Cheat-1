@@ -1,0 +1,418 @@
+﻿  External.hpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(66,1): warning C4005: 'STATUS_WAIT_0': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2510): message : see previous definition of 'STATUS_WAIT_0'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(222,1): warning C4005: 'STATUS_ABANDONED_WAIT_0': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2511): message : see previous definition of 'STATUS_ABANDONED_WAIT_0'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(245,1): warning C4005: 'STATUS_USER_APC': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2512): message : see previous definition of 'STATUS_USER_APC'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(281,1): warning C4005: 'STATUS_TIMEOUT': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2513): message : see previous definition of 'STATUS_TIMEOUT'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(290,1): warning C4005: 'STATUS_PENDING': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2514): message : see previous definition of 'STATUS_PENDING'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(737,1): warning C4005: 'DBG_EXCEPTION_HANDLED': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2515): message : see previous definition of 'DBG_EXCEPTION_HANDLED'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(746,1): warning C4005: 'DBG_CONTINUE': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2516): message : see previous definition of 'DBG_CONTINUE'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(821,1): warning C4005: 'STATUS_SEGMENT_NOTIFICATION': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2517): message : see previous definition of 'STATUS_SEGMENT_NOTIFICATION'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(984,1): warning C4005: 'STATUS_FATAL_APP_EXIT': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2518): message : see previous definition of 'STATUS_FATAL_APP_EXIT'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(1304,1): warning C4005: 'DBG_REPLY_LATER': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2519): message : see previous definition of 'DBG_REPLY_LATER'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(1322,1): warning C4005: 'DBG_TERMINATE_THREAD': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2520): message : see previous definition of 'DBG_TERMINATE_THREAD'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(1331,1): warning C4005: 'DBG_TERMINATE_PROCESS': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2521): message : see previous definition of 'DBG_TERMINATE_PROCESS'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(1340,1): warning C4005: 'DBG_CONTROL_C': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2522): message : see previous definition of 'DBG_CONTROL_C'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(1349,1): warning C4005: 'DBG_PRINTEXCEPTION_C': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2523): message : see previous definition of 'DBG_PRINTEXCEPTION_C'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(1358,1): warning C4005: 'DBG_RIPEXCEPTION': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2524): message : see previous definition of 'DBG_RIPEXCEPTION'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(1367,1): warning C4005: 'DBG_CONTROL_BREAK': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2525): message : see previous definition of 'DBG_CONTROL_BREAK'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(1376,1): warning C4005: 'DBG_COMMAND_EXCEPTION': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2526): message : see previous definition of 'DBG_COMMAND_EXCEPTION'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(1385,1): warning C4005: 'DBG_PRINTEXCEPTION_WIDE_C': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2527): message : see previous definition of 'DBG_PRINTEXCEPTION_WIDE_C'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(1417,1): warning C4005: 'STATUS_GUARD_PAGE_VIOLATION': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2528): message : see previous definition of 'STATUS_GUARD_PAGE_VIOLATION'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(1428,1): warning C4005: 'STATUS_DATATYPE_MISALIGNMENT': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2529): message : see previous definition of 'STATUS_DATATYPE_MISALIGNMENT'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(1439,1): warning C4005: 'STATUS_BREAKPOINT': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2530): message : see previous definition of 'STATUS_BREAKPOINT'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(1450,1): warning C4005: 'STATUS_SINGLE_STEP': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2531): message : see previous definition of 'STATUS_SINGLE_STEP'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(1753,1): warning C4005: 'STATUS_LONGJUMP': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2532): message : see previous definition of 'STATUS_LONGJUMP'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(1780,1): warning C4005: 'STATUS_UNWIND_CONSOLIDATE': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2533): message : see previous definition of 'STATUS_UNWIND_CONSOLIDATE'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(1884,1): warning C4005: 'DBG_EXCEPTION_NOT_HANDLED': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2534): message : see previous definition of 'DBG_EXCEPTION_NOT_HANDLED'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(2030,1): warning C4005: 'STATUS_ACCESS_VIOLATION': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2535): message : see previous definition of 'STATUS_ACCESS_VIOLATION'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(2039,1): warning C4005: 'STATUS_IN_PAGE_ERROR': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2536): message : see previous definition of 'STATUS_IN_PAGE_ERROR'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(2057,1): warning C4005: 'STATUS_INVALID_HANDLE': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2537): message : see previous definition of 'STATUS_INVALID_HANDLE'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(2102,1): warning C4005: 'STATUS_INVALID_PARAMETER': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2538): message : see previous definition of 'STATUS_INVALID_PARAMETER'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(2202,1): warning C4005: 'STATUS_NO_MEMORY': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2539): message : see previous definition of 'STATUS_NO_MEMORY'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(2259,1): warning C4005: 'STATUS_ILLEGAL_INSTRUCTION': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2540): message : see previous definition of 'STATUS_ILLEGAL_INSTRUCTION'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(2340,1): warning C4005: 'STATUS_NONCONTINUABLE_EXCEPTION': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2541): message : see previous definition of 'STATUS_NONCONTINUABLE_EXCEPTION'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(2349,1): warning C4005: 'STATUS_INVALID_DISPOSITION': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2542): message : see previous definition of 'STATUS_INVALID_DISPOSITION'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(3282,1): warning C4005: 'STATUS_ARRAY_BOUNDS_EXCEEDED': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2543): message : see previous definition of 'STATUS_ARRAY_BOUNDS_EXCEEDED'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(3292,1): warning C4005: 'STATUS_FLOAT_DENORMAL_OPERAND': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2544): message : see previous definition of 'STATUS_FLOAT_DENORMAL_OPERAND'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(3302,1): warning C4005: 'STATUS_FLOAT_DIVIDE_BY_ZERO': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2545): message : see previous definition of 'STATUS_FLOAT_DIVIDE_BY_ZERO'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(3312,1): warning C4005: 'STATUS_FLOAT_INEXACT_RESULT': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2546): message : see previous definition of 'STATUS_FLOAT_INEXACT_RESULT'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(3322,1): warning C4005: 'STATUS_FLOAT_INVALID_OPERATION': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2547): message : see previous definition of 'STATUS_FLOAT_INVALID_OPERATION'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(3332,1): warning C4005: 'STATUS_FLOAT_OVERFLOW': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2548): message : see previous definition of 'STATUS_FLOAT_OVERFLOW'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(3342,1): warning C4005: 'STATUS_FLOAT_STACK_CHECK': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2549): message : see previous definition of 'STATUS_FLOAT_STACK_CHECK'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(3352,1): warning C4005: 'STATUS_FLOAT_UNDERFLOW': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2550): message : see previous definition of 'STATUS_FLOAT_UNDERFLOW'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(3362,1): warning C4005: 'STATUS_INTEGER_DIVIDE_BY_ZERO': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2551): message : see previous definition of 'STATUS_INTEGER_DIVIDE_BY_ZERO'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(3372,1): warning C4005: 'STATUS_INTEGER_OVERFLOW': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2552): message : see previous definition of 'STATUS_INTEGER_OVERFLOW'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(3382,1): warning C4005: 'STATUS_PRIVILEGED_INSTRUCTION': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2553): message : see previous definition of 'STATUS_PRIVILEGED_INSTRUCTION'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(4328,1): warning C4005: 'STATUS_STACK_OVERFLOW': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2554): message : see previous definition of 'STATUS_STACK_OVERFLOW'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(4845,1): warning C4005: 'STATUS_DLL_NOT_FOUND': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2555): message : see previous definition of 'STATUS_DLL_NOT_FOUND'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(4874,1): warning C4005: 'STATUS_ORDINAL_NOT_FOUND': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2556): message : see previous definition of 'STATUS_ORDINAL_NOT_FOUND'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(4884,1): warning C4005: 'STATUS_ENTRYPOINT_NOT_FOUND': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2557): message : see previous definition of 'STATUS_ENTRYPOINT_NOT_FOUND'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(4894,1): warning C4005: 'STATUS_CONTROL_C_EXIT': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2558): message : see previous definition of 'STATUS_CONTROL_C_EXIT'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(4972,1): warning C4005: 'STATUS_DLL_INIT_FAILED': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2559): message : see previous definition of 'STATUS_DLL_INIT_FAILED'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(5969,1): warning C4005: 'STATUS_CONTROL_STACK_VIOLATION': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2560): message : see previous definition of 'STATUS_CONTROL_STACK_VIOLATION'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(7527,1): warning C4005: 'STATUS_FLOAT_MULTIPLE_FAULTS': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2561): message : see previous definition of 'STATUS_FLOAT_MULTIPLE_FAULTS'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(7537,1): warning C4005: 'STATUS_FLOAT_MULTIPLE_TRAPS': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2562): message : see previous definition of 'STATUS_FLOAT_MULTIPLE_TRAPS'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(7669,1): warning C4005: 'STATUS_REG_NAT_CONSUMPTION': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2563): message : see previous definition of 'STATUS_REG_NAT_CONSUMPTION'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(8652,1): warning C4005: 'STATUS_HEAP_CORRUPTION': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2564): message : see previous definition of 'STATUS_HEAP_CORRUPTION'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(8880,1): warning C4005: 'STATUS_STACK_BUFFER_OVERRUN': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2565): message : see previous definition of 'STATUS_STACK_BUFFER_OVERRUN'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(9007,1): warning C4005: 'STATUS_INVALID_CRUNTIME_PARAMETER': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2566): message : see previous definition of 'STATUS_INVALID_CRUNTIME_PARAMETER'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(9070,1): warning C4005: 'STATUS_ASSERTION_FAILURE': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2567): message : see previous definition of 'STATUS_ASSERTION_FAILURE'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(9988,1): warning C4005: 'STATUS_ENCLAVE_VIOLATION': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2568): message : see previous definition of 'STATUS_ENCLAVE_VIOLATION'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(10415,1): warning C4005: 'STATUS_INTERRUPTED': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2569): message : see previous definition of 'STATUS_INTERRUPTED'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(10424,1): warning C4005: 'STATUS_THREAD_NOT_RUNNING': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2570): message : see previous definition of 'STATUS_THREAD_NOT_RUNNING'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(10718,1): warning C4005: 'STATUS_ALREADY_REGISTERED': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2571): message : see previous definition of 'STATUS_ALREADY_REGISTERED'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(14352,1): warning C4005: 'STATUS_SXS_EARLY_DEACTIVATION': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2573): message : see previous definition of 'STATUS_SXS_EARLY_DEACTIVATION'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(14361,1): warning C4005: 'STATUS_SXS_INVALID_DEACTIVATION': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2574): message : see previous definition of 'STATUS_SXS_INVALID_DEACTIVATION'
+E:\Project Panther\fortnite-cheat-source-main\Loader\External\driver.h(17,29): warning C4458: declaration of 'pid' hides class member
+E:\Project Panther\fortnite-cheat-source-main\Loader\External\driver.h(15,12): message : see declaration of 'kernel::driver::pid'
+E:\Project Panther\fortnite-cheat-source-main\Loader\External\overlay.h(20,15): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+E:\Project Panther\fortnite-cheat-source-main\Loader\External\overlay.h(21,15): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+E:\Project Panther\fortnite-cheat-source-main\Loader\External\overlay.h(31,33): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Project Panther\fortnite-cheat-source-main\Loader\External\overlay.h(32,30): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Project Panther\fortnite-cheat-source-main\Loader\External\overlay.h(33,28): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Project Panther\fortnite-cheat-source-main\Loader\External\overlay.h(34,41): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Project Panther\fortnite-cheat-source-main\Loader\External\overlay.h(35,31): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Project Panther\fortnite-cheat-source-main\Loader\External\overlay.h(36,34): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Project Panther\fortnite-cheat-source-main\Loader\External\overlay.h(37,28): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Project Panther\fortnite-cheat-source-main\Loader\External\overlay.h(38,35): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Project Panther\fortnite-cheat-source-main\Loader\External\mouse_interface.h(284,20): warning C4244: 'return': conversion from 'BOOL' to 'SHORT', possible loss of data
+E:\Project Panther\fortnite-cheat-source-main\Loader\External\aimbot.hpp(35,25): warning C4245: 'argument': conversion from 'int' to 'DWORD', signed/unsigned mismatch
+E:\Project Panther\fortnite-cheat-source-main\Loader\External\aimbot.hpp(44,24): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+E:\Project Panther\fortnite-cheat-source-main\Loader\External\aimbot.hpp(45,24): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+E:\Project Panther\fortnite-cheat-source-main\Loader\External\aimbot.hpp(85,8): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+E:\Project Panther\fortnite-cheat-source-main\Loader\External\aimbot.hpp(86,8): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+E:\Project Panther\fortnite-cheat-source-main\Loader\External\aimbot.hpp(92,35): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+E:\Project Panther\fortnite-cheat-source-main\Loader\External\aimbot.hpp(92,19): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+E:\Project Panther\fortnite-cheat-source-main\Loader\External\menu.h(72,26): warning C4245: 'argument': conversion from 'int' to 'DWORD', signed/unsigned mismatch
+E:\Project Panther\fortnite-cheat-source-main\Loader\External\vector.h(90,39): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+E:\Project Panther\fortnite-cheat-source-main\Loader\External\vector.h(90,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+E:\Project Panther\fortnite-cheat-source-main\Loader\External\vector.h(90,81): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+E:\Project Panther\fortnite-cheat-source-main\Loader\External\vector.h(122,37): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+E:\Project Panther\fortnite-cheat-source-main\Loader\External\vector.h(136,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\Project Panther\fortnite-cheat-source-main\Loader\External\vector.h(137,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\Project Panther\fortnite-cheat-source-main\Loader\External\vector.h(138,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\Project Panther\fortnite-cheat-source-main\Loader\External\vector.h(140,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\Project Panther\fortnite-cheat-source-main\Loader\External\vector.h(141,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\Project Panther\fortnite-cheat-source-main\Loader\External\vector.h(142,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\Project Panther\fortnite-cheat-source-main\Loader\External\vector.h(144,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\Project Panther\fortnite-cheat-source-main\Loader\External\vector.h(145,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\Project Panther\fortnite-cheat-source-main\Loader\External\vector.h(146,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\Project Panther\fortnite-cheat-source-main\Loader\External\vector.h(147,38): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\Project Panther\fortnite-cheat-source-main\Loader\External\vector.h(148,38): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\Project Panther\fortnite-cheat-source-main\Loader\External\vector.h(149,38): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\Project Panther\fortnite-cheat-source-main\Loader\External\vector.h(151,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\Project Panther\fortnite-cheat-source-main\Loader\External\vector.h(152,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\Project Panther\fortnite-cheat-source-main\Loader\External\vector.h(153,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\Project Panther\fortnite-cheat-source-main\Loader\External\vector.h(154,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\Project Panther\fortnite-cheat-source-main\Loader\External\vector.h(156,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\Project Panther\fortnite-cheat-source-main\Loader\External\vector.h(157,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\Project Panther\fortnite-cheat-source-main\Loader\External\vector.h(158,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\Project Panther\fortnite-cheat-source-main\Loader\External\vector.h(159,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\Project Panther\fortnite-cheat-source-main\Loader\External\vector.h(161,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\Project Panther\fortnite-cheat-source-main\Loader\External\vector.h(162,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\Project Panther\fortnite-cheat-source-main\Loader\External\vector.h(163,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\Project Panther\fortnite-cheat-source-main\Loader\External\vector.h(164,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\Project Panther\fortnite-cheat-source-main\Loader\External\../yesrender.h(163,80): warning C4459: declaration of 'show_menu' hides global declaration
+E:\Project Panther\fortnite-cheat-source-main\Loader\External\menu.h(10,6): message : see declaration of 'show_menu'
+E:\Project Panther\fortnite-cheat-source-main\Loader\External\../yesrender.h(220,75): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Project Panther\fortnite-cheat-source-main\Loader\External\../yesrender.h(220,67): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Project Panther\fortnite-cheat-source-main\Loader\External\../yesrender.h(220,59): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Project Panther\fortnite-cheat-source-main\Loader\External\../yesrender.h(220,46): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Project Panther\fortnite-cheat-source-main\Loader\External\../yesrender.h(225,71): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Project Panther\fortnite-cheat-source-main\Loader\External\../yesrender.h(225,67): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Project Panther\fortnite-cheat-source-main\Loader\External\../yesrender.h(225,59): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Project Panther\fortnite-cheat-source-main\Loader\External\../yesrender.h(225,46): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Project Panther\fortnite-cheat-source-main\Loader\External\../yesrender.h(234,80): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Project Panther\fortnite-cheat-source-main\Loader\External\../yesrender.h(234,54): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Project Panther\fortnite-cheat-source-main\Loader\External\../yesrender.h(260,64): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Project Panther\fortnite-cheat-source-main\Loader\External\../yesrender.h(260,56): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Project Panther\fortnite-cheat-source-main\Loader\External\../yesrender.h(260,48): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Project Panther\fortnite-cheat-source-main\Loader\External\../yesrender.h(260,41): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Project Panther\fortnite-cheat-source-main\Loader\External\../yesrender.h(264,64): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Project Panther\fortnite-cheat-source-main\Loader\External\../yesrender.h(264,56): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Project Panther\fortnite-cheat-source-main\Loader\External\../yesrender.h(264,48): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Project Panther\fortnite-cheat-source-main\Loader\External\../yesrender.h(264,41): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Project Panther\fortnite-cheat-source-main\Loader\External\../yesrender.h(269,64): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Project Panther\fortnite-cheat-source-main\Loader\External\../yesrender.h(269,56): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Project Panther\fortnite-cheat-source-main\Loader\External\../yesrender.h(269,48): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Project Panther\fortnite-cheat-source-main\Loader\External\../yesrender.h(269,41): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Project Panther\fortnite-cheat-source-main\Loader\External\../yesrender.h(277,60): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Project Panther\fortnite-cheat-source-main\Loader\External\../yesrender.h(277,49): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Project Panther\fortnite-cheat-source-main\Loader\External\../yesrender.h(324,60): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Project Panther\fortnite-cheat-source-main\Loader\External\../yesrender.h(324,49): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Project Panther\fortnite-cheat-source-main\Loader\External\../yesrender.h(358,58): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Project Panther\fortnite-cheat-source-main\Loader\External\../yesrender.h(358,52): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Project Panther\fortnite-cheat-source-main\Loader\External\../yesrender.h(358,48): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Project Panther\fortnite-cheat-source-main\Loader\External\../yesrender.h(358,41): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Project Panther\fortnite-cheat-source-main\Loader\External\../yesrender.h(363,58): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Project Panther\fortnite-cheat-source-main\Loader\External\../yesrender.h(363,52): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Project Panther\fortnite-cheat-source-main\Loader\External\../yesrender.h(363,48): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Project Panther\fortnite-cheat-source-main\Loader\External\../yesrender.h(363,41): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Project Panther\fortnite-cheat-source-main\Loader\External\../yesrender.h(371,75): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Project Panther\fortnite-cheat-source-main\Loader\External\../yesrender.h(371,65): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Project Panther\fortnite-cheat-source-main\Loader\External\../yesrender.h(371,55): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Project Panther\fortnite-cheat-source-main\Loader\External\../yesrender.h(371,44): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Project Panther\fortnite-cheat-source-main\Loader\External\../yesrender.h(380,60): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Project Panther\fortnite-cheat-source-main\Loader\External\../yesrender.h(380,49): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Project Panther\fortnite-cheat-source-main\Loader\External\../yesrender.h(415,51): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Project Panther\fortnite-cheat-source-main\Loader\External\../yesrender.h(415,47): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Project Panther\fortnite-cheat-source-main\Loader\External\../yesrender.h(415,40): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Project Panther\fortnite-cheat-source-main\Loader\External\../yesrender.h(463,71): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+E:\Project Panther\fortnite-cheat-source-main\Loader\External\../yesrender.h(483,60): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Project Panther\fortnite-cheat-source-main\Loader\External\../yesrender.h(483,49): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Project Panther\fortnite-cheat-source-main\Loader\External\../yesrender.h(488,105): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Project Panther\fortnite-cheat-source-main\Loader\External\../yesrender.h(488,90): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Project Panther\fortnite-cheat-source-main\Loader\External\../yesrender.h(488,66): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Project Panther\fortnite-cheat-source-main\Loader\External\../yesrender.h(488,40): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Project Panther\fortnite-cheat-source-main\Loader\External\../yesrender.h(491,113): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Project Panther\fortnite-cheat-source-main\Loader\External\../yesrender.h(491,84): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Project Panther\fortnite-cheat-source-main\Loader\External\../yesrender.h(491,66): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Project Panther\fortnite-cheat-source-main\Loader\External\../yesrender.h(491,40): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Project Panther\fortnite-cheat-source-main\Loader\External\../yesrender.h(496,64): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Project Panther\fortnite-cheat-source-main\Loader\External\../yesrender.h(496,52): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Project Panther\fortnite-cheat-source-main\Loader\External\../yesrender.h(529,64): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Project Panther\fortnite-cheat-source-main\Loader\External\../yesrender.h(529,56): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Project Panther\fortnite-cheat-source-main\Loader\External\../yesrender.h(529,48): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Project Panther\fortnite-cheat-source-main\Loader\External\../yesrender.h(529,41): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Project Panther\fortnite-cheat-source-main\Loader\External\../yesrender.h(535,64): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Project Panther\fortnite-cheat-source-main\Loader\External\../yesrender.h(535,56): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Project Panther\fortnite-cheat-source-main\Loader\External\../yesrender.h(535,48): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Project Panther\fortnite-cheat-source-main\Loader\External\../yesrender.h(535,41): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Project Panther\fortnite-cheat-source-main\Loader\External\../yesrender.h(543,60): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Project Panther\fortnite-cheat-source-main\Loader\External\../yesrender.h(543,49): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Project Panther\fortnite-cheat-source-main\Loader\External\../yesrender.h(562,70): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Project Panther\fortnite-cheat-source-main\Loader\External\../yesrender.h(562,58): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Project Panther\fortnite-cheat-source-main\Loader\External\../yesrender.h(573,78): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Project Panther\fortnite-cheat-source-main\Loader\External\../yesrender.h(573,74): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Project Panther\fortnite-cheat-source-main\Loader\External\../yesrender.h(573,66): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Project Panther\fortnite-cheat-source-main\Loader\External\../yesrender.h(573,51): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Project Panther\fortnite-cheat-source-main\Loader\External\../yesrender.h(584,78): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Project Panther\fortnite-cheat-source-main\Loader\External\../yesrender.h(584,74): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Project Panther\fortnite-cheat-source-main\Loader\External\../yesrender.h(584,66): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Project Panther\fortnite-cheat-source-main\Loader\External\../yesrender.h(584,51): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Project Panther\fortnite-cheat-source-main\Loader\External\../yesrender.h(587,86): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Project Panther\fortnite-cheat-source-main\Loader\External\../yesrender.h(587,64): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Project Panther\fortnite-cheat-source-main\Loader\External\../yesrender.h(683,64): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Project Panther\fortnite-cheat-source-main\Loader\External\../yesrender.h(683,56): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Project Panther\fortnite-cheat-source-main\Loader\External\../yesrender.h(683,48): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Project Panther\fortnite-cheat-source-main\Loader\External\../yesrender.h(683,41): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Project Panther\fortnite-cheat-source-main\Loader\External\../yesrender.h(688,64): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Project Panther\fortnite-cheat-source-main\Loader\External\../yesrender.h(688,56): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Project Panther\fortnite-cheat-source-main\Loader\External\../yesrender.h(688,48): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Project Panther\fortnite-cheat-source-main\Loader\External\../yesrender.h(688,41): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Project Panther\fortnite-cheat-source-main\Loader\External\../yesrender.h(698,79): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Project Panther\fortnite-cheat-source-main\Loader\External\../yesrender.h(698,68): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Project Panther\fortnite-cheat-source-main\Loader\External\../yesrender.h(722,66): warning C4244: 'argument': conversion from 'int' to 'UCHAR', possible loss of data
+E:\Project Panther\fortnite-cheat-source-main\Loader\External\../yesrender.h(722,100): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Project Panther\fortnite-cheat-source-main\Loader\External\../yesrender.h(722,89): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Project Panther\fortnite-cheat-source-main\Loader\External\../yesrender.h(660,27): warning C4100: 'name': unreferenced formal parameter
+External\External.hpp(50,59): warning C4099: 'Vector3': type name first seen using 'class' now seen using 'struct'
+E:\Project Panther\fortnite-cheat-source-main\Loader\External\vector.h(62): message : see declaration of 'Vector3'
+External\External.hpp(51,62): warning C4099: 'Vector3': type name first seen using 'class' now seen using 'struct'
+E:\Project Panther\fortnite-cheat-source-main\Loader\External\vector.h(62): message : see declaration of 'Vector3'
+External\External.hpp(100,19): warning C4244: 'initializing': conversion from 'const wchar_t' to 'char', possible loss of data
+External\External.hpp(105,40): warning C4244: '=': conversion from 'const wchar_t' to 'char', possible loss of data
+External\External.hpp(114,18): warning C4244: 'initializing': conversion from 'const wchar_t' to 'char', possible loss of data
+External\External.hpp(154,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+External\External.hpp(155,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+External\External.hpp(156,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+External\External.hpp(181,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+External\External.hpp(182,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+External\External.hpp(183,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+External\External.hpp(255,21): warning C4101: 'v3': unreferenced local variable
+External\External.hpp(261,16): warning C4101: 'v9': unreferenced local variable
+External\External.hpp(399,26): warning C4245: 'argument': conversion from 'int' to 'DWORD', signed/unsigned mismatch
+External\External.hpp(449,21): warning C4018: '<': signed/unsigned mismatch
+External\External.hpp(456,4): warning C4456: declaration of 'i' hides previous local declaration
+External\External.hpp(449,12): message : see declaration of 'i'
+External\External.hpp(456,22): warning C4018: '<': signed/unsigned mismatch
+External\External.hpp(521,34): warning C4244: 'argument': conversion from 'Value_T' to 'int', possible loss of data
+          with
+          [
+              Value_T=DWORD_PTR
+          ]
+External\External.hpp(420,6): warning C4101: 'distance': unreferenced local variable
+External\External.hpp(584,64): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+External\External.hpp(593,23): warning C4459: declaration of 'vNeckOut' hides global declaration
+External\External.hpp(94,9): message : see declaration of 'vNeckOut'
+External\External.hpp(634,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+External\External.hpp(642,93): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+External\External.hpp(642,83): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+External\External.hpp(642,79): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External\External.hpp(642,50): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External\External.hpp(647,85): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+External\External.hpp(647,75): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+External\External.hpp(647,71): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External\External.hpp(647,42): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External\External.hpp(677,47): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External\External.hpp(677,41): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External\External.hpp(677,35): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External\External.hpp(677,29): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External\External.hpp(678,47): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External\External.hpp(678,41): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External\External.hpp(678,35): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External\External.hpp(678,29): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External\External.hpp(679,47): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External\External.hpp(679,41): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External\External.hpp(679,35): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External\External.hpp(679,29): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External\External.hpp(680,47): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External\External.hpp(680,41): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External\External.hpp(680,35): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External\External.hpp(680,29): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External\External.hpp(682,47): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External\External.hpp(682,41): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External\External.hpp(682,35): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External\External.hpp(682,29): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External\External.hpp(683,47): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External\External.hpp(683,41): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External\External.hpp(683,35): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External\External.hpp(683,29): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External\External.hpp(684,47): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External\External.hpp(684,41): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External\External.hpp(684,35): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External\External.hpp(684,29): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External\External.hpp(685,47): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External\External.hpp(685,41): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External\External.hpp(685,35): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External\External.hpp(685,29): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External\External.hpp(687,47): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External\External.hpp(687,41): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External\External.hpp(687,35): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External\External.hpp(687,29): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External\External.hpp(688,47): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External\External.hpp(688,41): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External\External.hpp(688,35): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External\External.hpp(688,29): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External\External.hpp(689,47): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External\External.hpp(689,41): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External\External.hpp(689,35): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External\External.hpp(689,29): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External\External.hpp(690,47): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External\External.hpp(690,41): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External\External.hpp(690,35): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External\External.hpp(690,29): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External\External.hpp(697,73): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External\External.hpp(697,58): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External\External.hpp(719,71): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External\External.hpp(719,48): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External\External.hpp(776,100): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External\External.hpp(776,76): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External\External.hpp(780,78): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External\External.hpp(780,54): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External\External.hpp(793,32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+External\External.hpp(817,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+External\External.hpp(832,63): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External\External.hpp(832,46): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External\External.hpp(833,146): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External\External.hpp(833,126): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External\External.hpp(848,63): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External\External.hpp(848,46): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External\External.hpp(849,146): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External\External.hpp(849,126): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External\External.hpp(862,63): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External\External.hpp(862,46): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External\External.hpp(863,146): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External\External.hpp(863,126): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External\External.hpp(874,37): warning C4244: 'argument': conversion from 'Value_T' to 'int', possible loss of data
+          with
+          [
+              Value_T=DWORD_PTR
+          ]
+External\External.hpp(1029,63): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External\External.hpp(1029,46): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External\External.hpp(1030,145): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External\External.hpp(1030,125): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External\External.hpp(1082,74): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External\External.hpp(1082,59): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+External\External.hpp(1084,38): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+External\External.hpp(1084,23): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+External\External.hpp(576,12): warning C4189: 'LocalTeamId': local variable is initialized but not referenced
+External\External.hpp(577,12): warning C4189: 'TeamId': local variable is initialized but not referenced
+External\External.hpp(734,12): warning C4189: 'itemName2': local variable is initialized but not referenced
+External\External.hpp(1220,14): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+External\External.hpp(1221,14): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+External\External.hpp(1235,79): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+External\External.hpp(1235,56): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+External\External.hpp(1235,44): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+External\External.hpp(1238,90): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+External\External.hpp(1238,36): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+External\External.hpp(1239,104): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+External\External.hpp(1239,50): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+External\External.hpp(1220,9): warning C4189: 'geyx': local variable is initialized but not referenced
+External\External.hpp(1221,9): warning C4189: 'geyy': local variable is initialized but not referenced
+E:\Project Panther\fortnite-cheat-source-main\Loader\External\dx9.h(38,13): warning C4505: 'get_process_wnd': unreferenced function with internal linkage has been removed
+E:\Project Panther\fortnite-cheat-source-main\Loader\External\../yesrender.h(37,14): warning C4505: 'Input::IsAnyMouseDown': unreferenced function with internal linkage has been removed
+E:\Project Panther\fortnite-cheat-source-main\Loader\External\../yesrender.h(69,14): warning C4505: 'Input::IsKeyPressed': unreferenced function with internal linkage has been removed
+  Generating code
+E:\Project Panther\fortnite-cheat-source-main\Loader\External\External.hpp(780): warning C4701: potentially uninitialized local variable 'color' used
+E:\Project Panther\fortnite-cheat-source-main\Loader\External\External.hpp(1029): warning C4701: potentially uninitialized local variable 'color' used
+  302 of 810 functions (37.3%) were compiled, the rest were copied from previous compilation.
+    167 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Loader.vcxproj -> E:\Project Panther\fortnite-cheat-source-main\x64\Release\Cheat.exe
