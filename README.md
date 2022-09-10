@@ -4,9 +4,9 @@ This is the source of a cheat that was coded by my friend & me
 
 ## What needs to be updated
 ```
->> Prob Offsets
->> Driver [ Detected asf ]
->> Nvdia Overlay
+> Prob Offsets
+> Driver [ Detected asf ]
+> Nvdia Overlay
 ```
 ## How to use the src
 ```
