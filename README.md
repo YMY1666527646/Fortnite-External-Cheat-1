@@ -15,7 +15,8 @@ Don't be a skid , be A Coder
 ```
 ## Can you help me ?
 ```
-No i will not give you any support for this source :D
+There is no Support for this source sry but i don't have time for that
+But if you like this source how about you give me a star :D
 ```
 ## Contact
 ```
